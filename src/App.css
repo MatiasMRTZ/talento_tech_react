@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: system-ui, sans-serif;
+    background-image: linear-gradient(
+        to right,
+        rgb(40, 78, 190),
+        rgb(91, 140, 219),
+        rgb(40, 78, 190)
+    );
+}
+
+main {
+    color: white;
+    padding: 50px;
+}
+
+section {
+    background: rgba(255,255,255,0.1);
+    padding: 30px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+    backdrop-filter: blur(4px);
+}
+
+section h2 {
+    margin-bottom: 15px;
+}
+
+ul {
+    padding-left: 25px;
+}
+
+li {
+    margin-bottom: 8px;
+}

@@ -1,0 +1,17 @@
+.header {
+  background-color: rgb(91, 140, 219);;
+  padding: 20px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  align-items: center;
+}

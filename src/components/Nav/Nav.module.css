@@ -1,0 +1,14 @@
+nav {
+    background-color: rgb(91, 140, 219);
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
